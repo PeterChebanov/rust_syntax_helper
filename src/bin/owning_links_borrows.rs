@@ -199,7 +199,7 @@ fn main() {
     let arr_slice = &arr[..];
     let arr_slice = &arr[..3];
     let arr_slice = &arr[1..=2];
-    println!("{:?}", arr_slice)
+    println!("{:?}", arr_slice);
 }
 
 
